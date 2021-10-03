@@ -67,6 +67,7 @@ spec:
              - name: MONGODB_PASSWORD
                value: "mongopwd"
 ---
+
 #Service aplicação web
 apiVersion: v1
 kind: Service
