@@ -24,4 +24,5 @@ jobs:
           tags: 
             thiagogomestec/rotten-potatoes:latest
             thiagogomestec/rotten-potatoes:${{ github.run_number }}
+            
   
