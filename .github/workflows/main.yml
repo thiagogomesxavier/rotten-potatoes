@@ -22,7 +22,7 @@ jobs:
           file: ./src/Dockerfile
           push: true
           tags: 
-            thiagogomestec/rotten-potatoes:latest
-            thiagogomestec/rotten-potatoes:${{ github.run_number }}
+            thiagogomesxavier/rotten-potatoes:latest
+            thiagogomesxavier/rotten-potatoes:${{ github.run_number }}
             
   
